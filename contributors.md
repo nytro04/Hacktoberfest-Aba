@@ -6,6 +6,6 @@ Add your Name and GitHub username
 ## Contributors
 
 ---
-name: opara prosper
-GitHub: [OPARA-PROSPER](https://github.com/OPARA-PROSPER)
+- name: opara prosper
+- GitHub: [OPARA-PROSPER](https://github.com/OPARA-PROSPER)
 ---
